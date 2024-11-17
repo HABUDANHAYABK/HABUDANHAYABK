@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ec7c114-cc2f-49bb-81ef-c40df1ac0e5b" alt="masterhead" />
+  <img src="https://raw.githubusercontent.com/HABUDANHAYABK/HABUDANHAYABK/main/masterhead.jpg" alt="masterhead" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
