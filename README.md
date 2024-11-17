@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ec7c114-cc2f-49bb-81ef-c40df1ac0e5b" alt="masterhead" />
+</p>
+
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
 <h3 align="center">First Class Graduate of Civil Engineering|| Arewa Data Science Fellow Cohort 3|| Data Analyst|| AI & ML Enthusiast|| Prospective Graduate Student</h3>
 
