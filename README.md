@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
-<h3 align="center">First Graduate of Civil Engineering|| Arewa Data Science Fellow Cohort 3|| Data Analyst|| AI & ML Enthusiast|| Prospective Graduate Student</h3>
+<h3 align="center">First Class Graduate of Civil Engineering|| Arewa Data Science Fellow Cohort 3|| Data Analyst|| AI & ML Enthusiast|| Prospective Graduate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habudanhayabk&label=Profile%20views&color=0e75b6&style=flat" alt="habudanhayabk" /> </p>
 
