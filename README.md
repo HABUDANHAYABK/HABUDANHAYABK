@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
-<h3 align="center">A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership. With passion for growth and a commitment to excellent, I thrive in dynamic environments where I can leverage my skills to drive positive change.</h3>
+<h3 style="text-align: justify;">A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership. With passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my skills to drive positive change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habudanhayabk&label=Profile%20views&color=0e75b6&style=flat" alt="habudanhayabk" /> </p>
 
