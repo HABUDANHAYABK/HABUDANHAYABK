@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
-<h3 align="center">
+<h3 align="justify">
   A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership. 
   With a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my 
   skills to drive positive change.
