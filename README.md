@@ -3,8 +3,9 @@
   A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership. 
   With a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my 
   skills to drive positive change.
+  I am passionate about Civil Engineering and leveraging Data Science and Machine Learning to analyze materials and concrete structures,making meaningful predictions.
 
-  ## 🔗 About Me
+  ##  About Me
 
   🎓 **Education:** 
       
