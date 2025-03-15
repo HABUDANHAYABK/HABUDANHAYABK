@@ -18,12 +18,11 @@
       
 - Researcher in **Structures and Materials** & **Machine Learning for Concrete Analysis**
 
-
 📌 **Interests:**  
 - Geotechnical & Structural Engineering  
 - AI & Machine Learning in Civil Engineering  
 - Data Visualization & Storytelling 
-  
+
 🚀 **Projects:**  
 - [World Population Dynamics](https://github.com/HABUDANHAYABK/world-population-dynamics)  
 - Machine Learning for Concrete Strength Prediction
