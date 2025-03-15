@@ -1,23 +1,33 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HABUDANHAYABK/HABUDANHAYABK/main/masterhead.jpg" alt="masterhead" />
-</p>
-
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA</h1>
-<h3 align="center">
+
   A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership. 
   With a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my 
   skills to drive positive change.
-</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=habudanhayabk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  ## 🔗 About Me
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=habudanhayabk" alt="GitHub Trophies" />
-  </a>
-</p>
+  🎓 **Education:** 
+      
+  - First-Class B.Eng in Civil Engineering, Kano University of Science and Technology Wudil (2024) 
+  - Best Graduating Student (Faculty of Engineering, 2024)  
+    
+  💼 **Experience:** 
+     
+  - Consulting Engineer, Ministry of Works and Transport Gombe (NYSC)  
+  - Data Science Fellow, Arewa Data Science Python Fellowship  
+      
+- Researcher in **Structures and Materials** & **Machine Learning for Concrete Analysis**
+
+
+📌 **Interests:**  
+- Geotechnical & Structural Engineering  
+- AI & Machine Learning in Civil Engineering  
+- Data Visualization & Storytelling 
+  
+🚀 **Projects:**  
+- [World Population Dynamics](https://github.com/HABUDANHAYABK/world-population-dynamics)  
+- Machine Learning for Concrete Strength Prediction
+
 
 <p align="left">
   <a href="https://twitter.com/danhaya9886" target="_blank">
