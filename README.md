@@ -14,7 +14,7 @@
     
   💼 **Experience:** 
      
-  - Resident Enginer, Construction of 2No. bridges along Gwaram - Basirka
+  - Resident Enginer, Construction of 2No. bridges along Gwaram - Basirka, Jigawa state
   - Consulting Engineer, Ministry of Works and Transport Gombe (NYSC)
   - Data Science Fellow, Arewa Data Science Academy  
       
