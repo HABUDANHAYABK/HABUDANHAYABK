@@ -14,8 +14,9 @@
     
   💼 **Experience:** 
      
-  - Consulting Engineer, Ministry of Works and Transport Gombe (NYSC)  
-  - Data Science Fellow, Arewa Data Science Python Fellowship  
+  - Resident Enginer, Construction of 2No. bridges along Gwaram - Basirka
+  - Consulting Engineer, Ministry of Works and Transport Gombe (NYSC)
+  - Data Science Fellow, Arewa Data Science Academy  
       
 - Researcher in **Structures and Materials** & **Machine Learning for Concrete Analysis**
 
