@@ -37,7 +37,7 @@
 </p>
 
 - 🔭 We're currently working on **Bridge Construction**
-- 🌱 I’m currently learning **Python programming with Arewa Data Science Academy**
+- 🌱 I’m currently learning **Data Science and Machine Learning with DataCamp**
 - 📝 I regularly write articles on [Medium](https://medium.com/@habudanhayabk)
 - 💬 Ask me about **Civil Engineering and Data Analysis**
 - 📫 How to reach me **habudanhayabk@gmail.com**
